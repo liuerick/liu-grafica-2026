@@ -1,2 +1,2 @@
 
-# Markdown syntax guide
+# :)
